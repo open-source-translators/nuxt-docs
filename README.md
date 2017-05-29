@@ -1,6 +1,6 @@
 # Note
 
-[nuxt/docs](https://github.com/nuxt/docs) on GitLocalize :sparks:. If you would like to   translate them, please see [nuxt/docs on Gitlocalize](https://gitlocalize.com/repo/100).
+Yeah, [nuxt/docs on GitHub](https://github.com/nuxt/docs) on GitLocalize :sparkles: :tada:. If you would like to join it, please see [nuxt/docs on Gitlocalize](https://gitlocalize.com/repo/100). Thanks :smile:
 
 ---
 <br />
