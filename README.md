@@ -1,3 +1,10 @@
+# Note
+
+[nuxt/docs](https://github.com/nuxt/docs) on GitLocalize :sparks:. If you would like to   translate them, please see [nuxt/docs on Gitlocalize](https://gitlocalize.com/repo/100).
+
+---
+<br />
+
 # Nuxt.js Documentation
 
 > This is where the documentation is stored and served as an API
